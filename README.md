@@ -1,6 +1,5 @@
-<h1>Olá! Eu sou o Rafinha!</h1>
+#Olá! Eu sou o Rafinha!
 
-<h2>Sobre mim...</h2>
 Olá! Prazer! Me chamo Rafael, também apelidado de Rafinha! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina, campus Gaspar. Também estou participando da 4º edição da Lince Tech Academy!
 
 Estou em busca da minha primeira oportunidade na programação, com o front-end sendo minha principal área de interesse. Possuo intermediário conhecimento de web e frameworks angular e react, também estou estudando C# por conta própria e desenvolvendo um complexo projeto para meu portifólio.
