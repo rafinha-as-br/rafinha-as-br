@@ -11,7 +11,7 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 <div>
   <a href="https://github.com/rafinha-as-br">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-as-br&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinha-as-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinha-as-br&show_icons=true&theme=transparenta&include_all_commits=true&count_private=true"/>
 
 </div>
 
