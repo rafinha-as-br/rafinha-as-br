@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Olá! Eu sou o Rafinha!</h1>
 
-<!--
-**rafinha-as-br/rafinha-as-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Prazer! Me chamo Rafael, também apelidado de Rafinha! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina, campus Gaspar. Também estou participando da 4º edição da Lince Tech Academy!
 
-Here are some ideas to get you started:
+Estou em busca da minha primeira oportunidade na programação, com o front-end sendo minha principal área de interesse. Possuo intermediário conhecimento de web e frameworks angular e react, também estou estudando C# por conta própria e desenvolvendo um complexo projeto para meu portifólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho na Agropecuária Figueira no período matutino, onde além de atendimento ao cliente, realizo serviços gerais de limpeza e manutenção da loja.
+
+Além da programação, sou entusiasta como da comunicação, sonorização e produção de vídeos, possuindo como hobby um canal no youtube de historytelling sobre games através de um formato de documentário dramático (projeto ainda em seus primeiros estágios, ainda nada publicado) e também faço livestreams jogando com amigos aos finais de semana.
+
+<div>
+  <a href="https://github.com/rafinha-as-br">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinha-as-br&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinha-as-br&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
+
