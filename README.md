@@ -12,6 +12,4 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 
 </div>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=rafinha-as-br&theme=react-dark"/>
-Teste
-
+[![GitHub Widget](https://github-profile-widget.vercel.app/api/user?username=rafinha-as-br&theme=github_dark)](https://github.com/rafinha-as-br)
