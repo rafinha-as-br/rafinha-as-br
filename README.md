@@ -13,5 +13,4 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 </div>
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafinha-as-br&theme=react-dark)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafinha-as-br&theme=dark)](https://git.io/streak-stats)
