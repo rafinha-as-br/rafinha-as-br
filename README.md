@@ -15,4 +15,4 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)](https://git.io/streak-stats)  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=SEU_USERNAME&theme=react-dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark)
