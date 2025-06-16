@@ -11,6 +11,6 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinha-as-br&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
 </div>
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafinha-as-br&theme=react-dark)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafinha-as-br&theme=react-dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafinha-as-br&theme=dark)](https://git.io/streak-stats)
