@@ -13,6 +13,6 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 </div>
 ## 📊 Minhas Estatísticas  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)](https://git.io/streak-stats)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafinha-as-br&show_icons=true&theme=radical)](https://github.com/rafinha-as-br)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafinha-as-br&theme=dark)](https://git.io/streak-stats)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafinha-as-br&theme=react-dark)
