@@ -12,4 +12,4 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafinha-asbr&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafinha-as-br&theme=dark)](https://git.io/streak-stats)
