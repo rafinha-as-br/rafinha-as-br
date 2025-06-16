@@ -12,4 +12,4 @@ Além da programação, sou entusiasta como da comunicação, sonorização e pr
 
 </div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rafinha-as-br&show_icons=true)
