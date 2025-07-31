@@ -3,7 +3,7 @@ Olá! Prazer! Me chamo Rafael, também apelidado de Rafinha! Sou estudante de An
 
 Estou em busca da minha primeira oportunidade na programação, com o front-end sendo minha principal área de interesse. Possuo intermediário conhecimento de web e frameworks angular e react, também estou estudando C# por conta própria e desenvolvendo um complexo projeto para meu portifólio.
 
-Além da programação, sou entusiasta como da comunicação, sonorização e produção de vídeos, possuindo como hobby um canal no youtube de historytelling sobre games através de um formato de documentário dramático (projeto ainda em seus primeiros estágios, ainda nada publicado) e também faço livestreams jogando com amigos aos finais de semana.
+Além da programação, sou entusiasta da comunicação, sonorização e produção de vídeos, possuindo como hobby um canal no youtube de historytelling sobre games através de um formato de documentário dramático (projeto ainda em seus primeiros estágios, ainda nada publicado) e também faço livestreams jogando com amigos aos finais de semana.
 
   ## 📊 Minhas Estatísticas  
 <div>
