@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Rafinha!</h1>
 Olá! Prazer! Me chamo Rafael, também apelidado de Rafinha! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina, campus Gaspar. Também estou participando da 4º edição da Lince Tech Academy! Nele estou cursando sobre o desenvolvimento de apps com o framework flutter!
 
-Estou em busca da minha primeira oportunidade na programação, com o front-end sendo minha principal área de interesse. Possuo um conhecimento básico de react e angular, com interesse em estudar mais de C# e também mais sobre o framework flutter!
+Estou em busca da minha primeira oportunidade na programação, com o front-end sendo minha principal área de interesse. Possuo um conhecimento básico de react e angular, com interesse em estudar mais da linguagem C# e também mais sobre o framework flutter!
 
 Além da programação, sou entusiasta da comunicação, sonorização e produção de vídeos, possuindo como hobby um canal no youtube de historytelling sobre games através de um formato de documentário dramático (projeto ainda em seus primeiros estágios, ainda nada publicado) e também faço livestreams jogando com amigos aos finais de semana.
 
