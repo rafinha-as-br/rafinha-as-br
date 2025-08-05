@@ -1,5 +1,5 @@
 <h1>Olá! Eu sou o Rafinha!</h1>
-Olá, Prazer! Me chamo Rafael, também apelidado de Rafinha! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina, campus Gaspar. Também estou participando da 4º edição da Lince Tech Academy! Nele estou cursando sobre o desenvolvimento de apps com o framework flutter!
+Olá, prazer! Me chamo Rafael, também apelidado de Rafinha! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de Santa Catarina, campus Gaspar. Também estou participando da 4º edição da Lince Tech Academy! Nele estou cursando sobre o desenvolvimento de apps com o framework flutter!
 
 Estou em busca da minha primeira oportunidade na programação, com o front-end sendo minha principal área de interesse. Tenho um conhecimento básico de react e angular, com interesse em estudar mais da linguagem C# e também mais sobre o framework flutter!
 
