@@ -10,5 +10,4 @@
 [TMS - Travel Management System] (https://github.com/rafinha-as-br/TMS)
 
 <h1>Contato</h1>
-[LinkedIn](https://www.linkedin.com/in/rafael-antunes-souza-109310321/)
-[Email](mailto:rafinha84.dev@gmail.com)
+<a href="https://www.linkedin.com/in/rafael-antunes-souza-109310321/" title="Rafael">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
