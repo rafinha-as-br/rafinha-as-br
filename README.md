@@ -23,8 +23,9 @@ _**Back End**_
 
 **TMS — Travel Management System (em desenvolvimento)**  
 _Sistema que realiza a conexão entre cliente e agente em empresas de viagens. (https://github.com/rafinha-as-br/TMS)_
+
 **Flutter Labs (Em desenvolvimento)**
-_Aplicativo de estudo de arquitetura para mobile, contendo diferentes funcionalidades (https://github.com/rafinha-as-br/flutter_labs)
+_Aplicativo de estudo de arquitetura para mobile, contendo diferentes funcionalidades (https://github.com/rafinha-as-br/flutter_labs)_
 
 ## Contato
 <a href="https://www.linkedin.com/in/rafael-antunes-souza-109310321/" title="Rafael">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
