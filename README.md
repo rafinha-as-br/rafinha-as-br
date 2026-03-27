@@ -18,15 +18,6 @@ _**Back End**_
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-## Projetos
-
-**TMS — Travel Management System (em desenvolvimento)**  
-_Sistema que realiza a conexão entre cliente e agente em empresas de viagens. (https://github.com/rafinha-as-br/TMS)_
-
-**Flutter Labs (Em desenvolvimento)**
-_Aplicativo de estudo de arquitetura para mobile, contendo diferentes funcionalidades (https://github.com/rafinha-as-br/flutter_labs)_
-
 ## Contato
 <a href="https://www.linkedin.com/in/rafael-antunes-souza-109310321/" title="Rafael">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="mailto:rafinha84.dev@gmail.com" title="Jonathan">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
